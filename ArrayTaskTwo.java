@@ -9,6 +9,7 @@ import java.util.Arrays;
             int largestIndex = 0;
             int smallestIndex = 0;
             int index = 0;
+
         for(index = 0; index < myList.length; index ++){
             if(myList[index] > largest){
 
